@@ -1,3 +1,21 @@
+  ## Meubel-house page
+
+This is a furniture-shop website built as graduation project using React.
+
+### Technologies stack
+* React
+* SASS
+* axios
+* styled-components
+* React Hook Form
+* Redux Toolkit, Redux Thunk/Persist
+* eslint(linter)
+* prettier(code formating)
+
+### Links
+* The [Figma](https://www.figma.com/file/bvYj30y0b85V2xNTPadlwn/FE6-Final-Project?t=MUgM97ccn68hJqNu-0) file for the project
+* Preview
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
